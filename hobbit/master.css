@@ -1,0 +1,21 @@
+
+body{
+  background-color: aliceblue;
+}
+
+#heading{
+  font-size: 36px;
+  color: #333366
+}
+
+#subheading{
+  font-size: 26px;
+  color: #555588
+}
+
+p{
+  text-align: center;
+  font-family: monospace;
+  font-size: 16px;
+  color: #333366
+}
