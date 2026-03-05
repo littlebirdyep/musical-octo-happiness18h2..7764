@@ -1,21 +1,21 @@
 
 body{
-  background-color: #f3f8ff
+  background-color: #f0fdf2
 }
 
 #heading{
   font-size: 36px;
-  color: #333366
+  color: #336633
 }
 
 #subheading{
   font-size: 26px;
-  color: #555588
+  color: #558855
 }
 
 p{
   text-align: center;
   font-family: monospace;
   font-size: 16px;
-  color: #333366
+  color: #336633
 }
