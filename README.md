@@ -11,6 +11,7 @@ What on Earth do I do??
 -
 1. Download: Code -> download ZIP. Make sure it's on your computer...steal some of that school
    technology if you don't have one and are desperate to see a beginner coder's website...! (unlikely)
-2. Type the path in a browser. (eg. file://users/yourname/Downloads/hobbit/index.html)
+2. Type the path in a browser or open the file.
+   (eg. file://users/yourname/Downloads/musical-octo-happiness18h2..7764-main/hobbit/index.html)
 
 If you have questions that need answers, you can contact someoneREALLYstrange.b@gmail.com.
