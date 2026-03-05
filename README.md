@@ -4,7 +4,7 @@ This is a website about Tolkien's bestselling book _The Hobbit_. Over time, I sh
 I think it's safe to assume that you're viewing this on 
 a cellular device. If so, please send the link or files to your computer! Note that the site will be updated regularly, so 
 you may need to download it and delete it multiple times. Your misery will only end when I write "FINAL UPDATE" in the readme 
-(aka.this). *evil*
+(aka.this). **evil smile**
 
 ----
 What on Earth do I do??
