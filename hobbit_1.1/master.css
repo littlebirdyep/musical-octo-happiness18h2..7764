@@ -1,0 +1,31 @@
+
+body{
+  background-color: #f0fdf2
+}
+#center-text{
+  text-align: center;
+}
+
+#heading{
+  text-align: center;
+  font-size: 36px;
+}
+
+#subheading{
+  text-align: center;
+  font-size: 26px;
+  color: #558855
+}
+
+img{
+  float: left;
+  margin-right: 42px;
+  margin-left: 512px;
+}
+
+p{
+  text-align: justify;
+  font-family: monospace;
+  font-size: 16px;
+  color: #336633
+}
