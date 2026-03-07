@@ -1,0 +1,48 @@
+
+
+
+
+
+
+
+
+body{
+  background-color: #f0fdf2
+}
+#center-text{
+  text-align: center;
+}
+
+#heading{
+  text-align: center;
+  font-size: 36px;
+}
+
+#subheading{
+  text-align: center;
+  font-size: 26px;
+  color: #558855
+}
+
+#hobbit{
+  float: left;
+  margin-right: 42px;
+  margin-left: 512px;
+}
+
+img{
+  margin: 25px;
+  max-width: 600px;
+}
+
+p{
+  text-align: justify;
+  font-family: monospace;
+  font-size: 16px;
+  color: #336633
+}
+
+a{
+  color: #30aa30;
+  text-emphasis-color: #40ac70
+}
