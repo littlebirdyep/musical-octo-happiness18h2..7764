@@ -8,7 +8,7 @@ for now to get the best experience. Apologies- I shared it as a QR code, so this
 ----
 What on Earth do I do??
 -
-1. I have just put a link to the pages in the description for easy access. You can also find the link
+1. I have just deployed the site on GitHub pages and put a link to the pages in the description for easy access. You can also find the link
    under the "deployments" tab. Thank you for visiting! 03/06/2026
    
 If you have any burning questions, you can contact someoneREALLYstrange.b@gmail.com.
