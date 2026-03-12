@@ -4,7 +4,9 @@
 
 
 
-
+hr{
+    border: 2px dashed #558855;
+  }
 
 body{
   background-color: #f6fff8
