@@ -1,8 +1,10 @@
 
 
 
-
-
+#border-text{
+    border: 2px solid #558855;
+    padding: 12px;
+}
 
 hr{
     border: 2px dashed #558855;
