@@ -1,20 +1,46 @@
 
+.icon{
+  cursor: pointer;
+  min-width: 1px;
+  margin: auto;
+  margin-bottom: -12px;
+}
 
+div{
+  float: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+#flowers{
+  width: 5.5%;
+  max-width: 100px;
+  margin-bottom: -12px;
+  margin-left: 1.5px;
+  margin-right: 1.5px;
+  min-width: 62px
+}
 
 #border-text{
-    border: 2px solid #558855;
-    padding: 12px;
+  border: 2px solid #558855;
+  padding: 12px;
 }
 
-hr{
-    border: 2px dashed #558855;
-    margin-left: 10%;
-    margin-right: 10%;
-  }
+
+#hr{
+  border: 2px dashed #558855;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
 
 body{
+  margin: 24px;
   background-color: #f6fff8
 }
+
 #center-text{
   text-align: center;
 }
@@ -30,6 +56,19 @@ body{
   color: #558855
 }
 
+
+p{
+  text-align: left;
+  font-family: monospace;
+  font-size: 16px;
+  color: #336633
+}
+
+a{
+  color: #30aa30;
+  text-emphasis-color: #40ac70
+}
+
 #hobbit{
   float: left;
   margin-left: 25%;
@@ -40,15 +79,12 @@ img{
   min-width: 125px;
 }
 
-p{
-  margin: 24px;
-  text-align: left;
-  font-family: monospace;
+button{
+  text-align: center;
   font-size: 16px;
-  color: #336633
-}
-
-a{
-  color: #30aa30;
-  text-emphasis-color: #40ac70
+  background-color: #ffffff;
+  border-color: #558855;
+  border-radius: 20%;
+  width: 60px;
+  height: 30px
 }
